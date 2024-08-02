@@ -4,7 +4,7 @@
   
 ___
 
-# The cognitive science behind the adventures of Jun Ajpu' & Xb'alamke' <img src="./img/csm_logo_en.png" width=auto height="70">
+# <img src="./img/csm_logo_en.png" width=auto height="70"> The cognitive science behind the adventures of Jun Ajpu' & Xb'alamke' 
 
 ___
 
