@@ -4,8 +4,8 @@
   
 ___
 
-# The cognitive science behind the adventures of Jun Ajpu' and Xb'alamke'
+# The cognitive science behind the adventures of Jun Ajpu' & Xb'alamke'
 
 ___
 
-# La ciencia cognitiva detrás de las aventuras de Jun Ajpu' and Xb'alamke'
+# La ciencia cognitiva detrás de las aventuras de Jun Ajpu' & Xb'alamke'
