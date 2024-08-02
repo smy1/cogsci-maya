@@ -4,7 +4,7 @@
   
 ___
 
-# The cognitive science behind the adventures of Jun Ajpu' & Xb'alamke'
+# The cognitive science behind the adventures of Jun Ajpu' & Xb'alamke' ![csm_en](https://github.com/smy1/cogsci-maya/img/csm_logo_en.png)
 
 ___
 
