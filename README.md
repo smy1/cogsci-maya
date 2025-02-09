@@ -6,7 +6,10 @@ ___
 
 # English <img src="./img/csm_logo_en.png" width=auto height="50"> 
 ## Slides
-
+- Part 1: [Neuroscience](https://github.com/smy1/cogsci-maya/tree/main/slides/L1_en_neuroscience.pdf)
+- Part 2: [Cognitive psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/L2_en_cognitive.pdf)
+- Part 3: [Comparative psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/L3_en_comparative.pdf)
+- Part 4: [Developmental psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/L4_en_developmental.pdf)
 ## Reading materials
 
 ___
