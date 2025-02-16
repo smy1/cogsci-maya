@@ -6,12 +6,15 @@
 
 # English <img src="./img/csm_logo_en.png" width=auto height="35">
 ## Slides
-- Part 1: [Neuroscience](https://github.com/smy1/cogsci-maya/tree/main/slides/L1_en_neuroscience.pdf)
-- Part 2: [Cognitive psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/L2_en_cognitive.pdf)
-- Part 3: [Comparative psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/L3_en_comparative.pdf)
-- Part 4: [Developmental psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/L4_en_developmental.pdf)
+- Part 1: [Neuroscience](https://github.com/smy1/cogsci-maya/tree/main/slides/en_L1_neuroscience.pdf)
+- Part 2: [Cognitive psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/en_L2_cognitive.pdf)
+- Part 3: [Comparative psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/en_L3_comparative.pdf)
+- Part 4: [Developmental psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/en_L4_developmental.pdf)
 ## Reading materials
-
+- reading 1: [House of Bats](https://github.com/smy1/cogsci-maya/tree/main/materials/en-reading-1.pdf)
+- reading 2: [A test for Xmuqane](https://github.com/smy1/cogsci-maya/tree/main/materials/en-reading-2.pdf)
+- reading 3: [Teaming up with a rat](https://github.com/smy1/cogsci-maya/tree/main/materials/en-reading-3.pdf)
+- reading 4: [Seven Macaw and his sons](https://github.com/smy1/cogsci-maya/tree/main/materials/en-reading-4.pdf)
 ---
 
 # Español <img src="./img/csm_logo_es.png" width=auto height="35">
