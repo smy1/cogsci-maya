@@ -15,6 +15,8 @@
 - reading 2: [A test for Xmuqane](https://github.com/smy1/cogsci-maya/tree/main/materials/en-reading-2.pdf)
 - reading 3: [Teaming up with a rat](https://github.com/smy1/cogsci-maya/tree/main/materials/en-reading-3.pdf)
 - reading 4: [Seven Macaw and his sons](https://github.com/smy1/cogsci-maya/tree/main/materials/en-reading-4.pdf)
+## Blogpost in Cognitive Science Society
+- 23 February 2025: [Bridging Worlds between Indigenous Communities and Science: Exploring Cognitive Science through Mayan Tales](https://cognitivesciencesociety.org/bridging-worlds-between-indigenous-communities-and-science-exploring-cognitive-science-through-mayan-tales/)
 ---
 
 # Español <img src="./img/csm_logo_es.png" width=auto height="35">
