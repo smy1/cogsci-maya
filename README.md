@@ -22,7 +22,11 @@
 # Español &nbsp; <img src="./img/csm_logo_es.png" width=auto height="60">
 ## Presentaciones
 - Parte 1: [Neurociencias](https://docs.google.com/presentation/d/1TjwjvWWxerI_sjYnVBM77RTZtfB4LZkHLC1USfM_Gq8/edit?usp=sharing)
-- Parte 1: <a href="https://docs.google.com/presentation/d/1TjwjvWWxerI_sjYnVBM77RTZtfB4LZkHLC1USfM_Gq8/edit?usp=drive_link" target="_blank">Neurociencias</a>
-- Parte 2: [Cognitive psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/en_L2_cognitive.pdf)
-- Parte 3: [Comparative psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/en_L3_comparative.pdf)
-- Parte 4: [Developmental psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/en_L4_developmental.pdf)
+- Parte 2: [Psicología cognitiva](https://docs.google.com/presentation/d/1ed30nF9xbTWrHOfoD3DEW-ntgkK_mveP8AgvrJzQUuw/edit?usp=sharing)
+- Parte 3: [Psicología comparativa](https://docs.google.com/presentation/d/1VsI9fg6i6rYT_V6m0SzjlMsDWU4VpkVnCMNBSKwmtk8/edit?usp=sharing)
+- Parte 4: [Psicología del desarrollo](https://docs.google.com/presentation/d/1DUCz6HtPPjSXexe-r_AnKTUPz0lg1J8to70N0AYH-zk/edit?usp=sharing)
+## Materiales de lectura
+- Lectura 1: [La casa de los murciélagos](https://docs.google.com/document/d/1wHdkol2VQ3WzmaIZ3mmsnBqv4cN_b99do0t5HqsyQq0/edit?usp=drive_link)
+- Lectura 2: [Una prueba para Xmuqane](https://docs.google.com/document/d/1Z-14K027tJHOR9b6mSqE8FaZaO2Eb7c850d8b_7LFi8/edit?usp=sharing)
+- Lectura 3: [Con la ayuda de una rata](https://docs.google.com/document/d/1F76KLbMxoQmi1V7eqWwKv3oRiUPPcoKWUkJjesO3jnw/edit?usp=sharing)
+- Lectura 4: [Wuqub’ Kak’ix y sus hijos](https://docs.google.com/document/d/1vix-SS-b60mu5-O3Wuz0c54JxUZBB5OYAFa-7REzNxY/edit?usp=sharing)
