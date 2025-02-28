@@ -1,6 +1,6 @@
 # CogSci-Maya &nbsp; <img src="./img/csm_logo.png" width=auto height="70">
 - This project aims to spread awareness of cognitive science among educators in Mayan and Mestizo communities using stories from the Popol Wuj. Click here for the [English content](#english-contents--). 
-- Este proyecto tiene como objetivo difundir la importancia de las ciencias cognitivas entre educadores de comunidades Mayas y Mestizas utilizando historias del Popol Wuj. Haga clic aquí para ver el [contenido en Español](#espa%C3%B1ol--).
+- Este proyecto tiene como objetivo difundir la importancia de las ciencias cognitivas entre educadores de comunidades Mayas y Mestizas utilizando historias del Popol Wuj. Haga clic aquí para ver el [contenido en Español](#contenido-en-espa%C3%B1ol--).
 
 ---
 
@@ -19,7 +19,7 @@
 - 23 February 2025: [Bridging Worlds between Indigenous Communities and Science: Exploring Cognitive Science through Mayan Tales](https://cognitivesciencesociety.org/bridging-worlds-between-indigenous-communities-and-science-exploring-cognitive-science-through-mayan-tales/)
 ---
 
-# Español &nbsp; <img src="./img/csm_logo_es.png" width=auto height="60">
+# Contenido en Español &nbsp; <img src="./img/csm_logo_es.png" width=auto height="60">
 ## Presentaciones
 - Parte 1: [Neurociencias](https://docs.google.com/presentation/d/1TjwjvWWxerI_sjYnVBM77RTZtfB4LZkHLC1USfM_Gq8/edit?usp=sharing)
 - Parte 2: [Psicología cognitiva](https://docs.google.com/presentation/d/1ed30nF9xbTWrHOfoD3DEW-ntgkK_mveP8AgvrJzQUuw/edit?usp=sharing)
