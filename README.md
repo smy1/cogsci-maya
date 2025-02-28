@@ -21,6 +21,7 @@
 
 # Español &nbsp; <img src="./img/csm_logo_es.png" width=auto height="60">
 ## Presentaciones
+- Parte 1: [Neurociencias](https://docs.google.com/presentation/d/1TjwjvWWxerI_sjYnVBM77RTZtfB4LZkHLC1USfM_Gq8/edit?usp=sharing)
 - Parte 1: <a href="https://docs.google.com/presentation/d/1TjwjvWWxerI_sjYnVBM77RTZtfB4LZkHLC1USfM_Gq8/edit?usp=drive_link" target="_blank">Neurociencias</a>
 - Parte 2: [Cognitive psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/en_L2_cognitive.pdf)
 - Parte 3: [Comparative psychology](https://github.com/smy1/cogsci-maya/tree/main/slides/en_L3_comparative.pdf)
