@@ -21,7 +21,7 @@
 
 # Contenido en Español &nbsp; <img src="./img/csm_logo_es.png" width=auto height="60">
 ## Presentaciones
-- Introducción: [Introducción al taller]([https://docs.google.com/presentation/d/1TjwjvWWxerI_sjYnVBM77RTZtfB4LZkHLC1USfM_Gq8/edit?usp=sharing](https://docs.google.com/presentation/d/1yqR9ibQvPiqDyQXZk_v_tky9MHfUG8sjImhWA_J0h9o/edit?usp=sharing))
+- Introducción: [Introducción al taller](https://docs.google.com/presentation/d/1yqR9ibQvPiqDyQXZk_v_tky9MHfUG8sjImhWA_J0h9o/edit?usp=sharing)
 - Parte 1: [Neurociencias](https://docs.google.com/presentation/d/1TjwjvWWxerI_sjYnVBM77RTZtfB4LZkHLC1USfM_Gq8/edit?usp=sharing)
 - Parte 2: [Psicología cognitiva](https://docs.google.com/presentation/d/1ed30nF9xbTWrHOfoD3DEW-ntgkK_mveP8AgvrJzQUuw/edit?usp=sharing)
 - Parte 3: [Psicología comparativa](https://docs.google.com/presentation/d/1VsI9fg6i6rYT_V6m0SzjlMsDWU4VpkVnCMNBSKwmtk8/edit?usp=sharing)
