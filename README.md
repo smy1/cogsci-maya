@@ -31,5 +31,5 @@
 - Lectura 2: [Una prueba para Xmuqane](https://docs.google.com/document/d/1Z-14K027tJHOR9b6mSqE8FaZaO2Eb7c850d8b_7LFi8/edit?usp=sharing)
 - Lectura 3: [Con la ayuda de una rata](https://docs.google.com/document/d/1F76KLbMxoQmi1V7eqWwKv3oRiUPPcoKWUkJjesO3jnw/edit?usp=sharing)
 - Lectura 4: [Wuqub’ Kak’ix y sus hijos](https://docs.google.com/document/d/1vix-SS-b60mu5-O3Wuz0c54JxUZBB5OYAFa-7REzNxY/edit?usp=sharing)
-## Videos
-- Tutorial sobre cómo utilizar el experimento en línea: [Video tutorial](https://drive.google.com/file/d/1dQnmFmv_BPvYJAPFag0P8UbDDIVZ5oCL/view?usp=drive_link)
+## Vídeos
+- Tutorial sobre cómo utilizar el experimento en línea: [Vídeo tutorial](https://drive.google.com/file/d/1dQnmFmv_BPvYJAPFag0P8UbDDIVZ5oCL/view?usp=drive_link)
