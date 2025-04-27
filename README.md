@@ -33,5 +33,5 @@
 - Lectura 4: [Wuqub’ Kak’ix y sus hijos](https://docs.google.com/document/d/1vix-SS-b60mu5-O3Wuz0c54JxUZBB5OYAFa-7REzNxY/edit?usp=sharing)
 ## Vídeos
 - Tutorial sobre cómo utilizar el experimento en línea: [Vídeo tutorial](https://drive.google.com/file/d/1dQnmFmv_BPvYJAPFag0P8UbDDIVZ5oCL/view?usp=drive_link)
-- Sesión 1 del taller en línea: [Sesión 1](https://drive.google.com/file/d/1RwZIjP1G7rr9fW6Dc9LnWzbPhu_juvK3/view?usp=drive_link)
-- Sesión 2 del taller en línea: [Sesión 2](https://drive.google.com/file/d/19rCggPp4uLgLhICO_d-NufgWArrKzHtg/view?usp=drive_link)
+- Sesión 1 del taller en línea: [2025-03-22](https://drive.google.com/file/d/1RwZIjP1G7rr9fW6Dc9LnWzbPhu_juvK3/view?usp=drive_link)
+- Sesión 2 del taller en línea: [2025-03-23](https://drive.google.com/file/d/19rCggPp4uLgLhICO_d-NufgWArrKzHtg/view?usp=drive_link)
