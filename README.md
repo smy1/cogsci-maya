@@ -1,6 +1,6 @@
 # CogSci-Maya &nbsp; <img src="./img/csm_logo.png" width=auto height="70">
-## The Cognitive Science Behind the Adventures of Junajpu and Xbalamke: Spreading Awareness of Cognitive Science Among Educators in Mayan and Mestizo Communities.
-## La Ciencia Cognitiva Detrás de las Aventuras de Junajpu e Xbalamke': Promoviendo el Conocimiento de las Ciencias Cognitivas Entre Educadores de Comunidades Mayas y Mestizas.
+### The Cognitive Science Behind the Adventures of Junajpu and Xbalamke: Spreading Awareness of Cognitive Science Among Educators in Mayan and Mestizo Communities.
+### La Ciencia Cognitiva Detrás de las Aventuras de Junajpu e Xbalamke': Promoviendo el Conocimiento de las Ciencias Cognitivas Entre Educadores de Comunidades Mayas y Mestizas.
 - This project aims to spread awareness of cognitive science among educators in Mayan and Mestizo communities using stories from the Popol Wuj. Click here for the [English content](#english-contents--). 
 - Este proyecto tiene como objetivo difundir la importancia de las ciencias cognitivas entre educadores de comunidades Mayas y Mestizas utilizando historias del Popol Wuj. Haga clic aquí para ver el [contenido en Español](#contenido-en-espa%C3%B1ol--).
 
